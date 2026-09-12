@@ -44,6 +44,7 @@ python main.py
 ```
 
 4. Open http://127.0.0.1:5000/
+5. for mob open:https://medicine-recommendation-system-1-y8cl.onrender.com
 
 ## Run on Linux/macOS
 
